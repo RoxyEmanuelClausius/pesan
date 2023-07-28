@@ -1,0 +1,14 @@
+- - apply_wqdky
+  - questions:
+      - label: (kritik atau saran)
+        type: short
+      - label: Subject
+        type: short
+      - label: Isi Kritik atau Saran
+        type: paragraph
+      - label: Alasan
+        type: paragraph
+      - label: Tambahan
+        type: paragraph
+    name: Kritik dan Saran
+    channellogId: "1134445362304786452"

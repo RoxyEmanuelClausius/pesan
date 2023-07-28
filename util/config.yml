@@ -1,0 +1,5 @@
+- - config
+  - token_bot:
+    owernid: "940460103272914994"
+    status_bot: /apply
+    status_type: WATCHING
