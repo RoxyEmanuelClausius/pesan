@@ -1,15 +1,12 @@
 {
-  "name": "submit-bot-discord",
-  "version": "1.0.0",
-  "description": "Bot Run By Shuruhatik#2443",
+  "name": "pesan suggestion",
+  "description": "ROXY",
   "main": "index.mjs",
   "type": "module",
   "scripts": {
     "start": "node index.mjs"
   },
   "keywords": ["submit-bot-discord","discord","discord-modal"],
-  "author": "shuruhatik",
-  "license": "CC BY-NC-ND 4.0",
   "dependencies": {
     "chalk-animation": "^1.6.0",
     "discord-modal": "^1.0.2",
